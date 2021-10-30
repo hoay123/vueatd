@@ -2,7 +2,7 @@
 # vue web for attendance
 if you have springboot for atd,you can use port localhost:8080 to visit it.
 Of course you don't have it.
-Just a liitel try for my first try of github.
+Just a liitle try for my first try of github.
 ## Project setup
 ```
 npm install
